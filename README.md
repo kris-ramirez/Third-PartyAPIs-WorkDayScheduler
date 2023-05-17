@@ -12,6 +12,7 @@ N/A
 ## Usage
 
 To use this application visit this link: 
+https://kris-ramirez.github.io/Third-PartyAPIs-WorkDayScheduler/
 
 There you will find the calendar with the current date. 
 [Work Day Scheduler](assets/images/ScreenShot1.png)
